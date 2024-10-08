@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643728056053",
+    "project_id": "tiffin-c965a",
+    "storage_bucket": "tiffin-c965a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643728056053:android:bed90a7994789d7e4befbc",
+        "android_client_info": {
+          "package_name": "com.example.tiffin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7goJ2oED9B4o61dFqZA4-9F5Jsaf8SOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
